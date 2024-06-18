@@ -43,7 +43,7 @@ class _LoginState extends State<Login> {
               child: Text(""),
             ),
             Container(
-              margin: EdgeInsets.only(top: 20, left: 20, right: 20),
+              margin: constEdgeInsets.only(top: 20, left: 20, right: 20),
               child: Column(
                 children: [
                   Center(
